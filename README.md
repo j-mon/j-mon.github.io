@@ -1,3 +1,4 @@
 # j-mon.github.io
 Website
-Udacity Data Analysis Nanodegree program, feel free to reach out to me! 
+
+Projects related to Udacity's Data Analysis Nanodegree
